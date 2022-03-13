@@ -30,3 +30,12 @@ Port : 443
 Password : "lavalink"
 Secure : true
 ```
+Hosted by @ [harukifi#9450](https://github.com/tathaha)
+
+Repl.it Lavalink:
+```bash
+Host : lava.chirailava.tk
+Port : 443
+Password : "chiraiisagirl"
+Secure : true
+```
